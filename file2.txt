@@ -1,3 +1,7 @@
 Welcome
 Modified
+<<<<<<< HEAD
 Good morning
+=======
+Great Morning
+>>>>>>> prod
